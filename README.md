@@ -13,6 +13,7 @@ My "languages evolution":
 1. Ruby
 1. Go
 
+I would consider myself the strongest in C# and Javascript but maybe these "muscles" will lose volume in favour of Go as I keep hitting "the gym" 😉.
 Currently I am building mostly in **Go** but I can't stop using C#, Python and NodeJs because I have too much stuff running around. 
 Don't try to suggest something horrible. They are pets, not cattle and I have childhood trauma already! 😂
 
