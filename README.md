@@ -4,7 +4,7 @@ Always learning something new from all you smart folks and then pretend that I c
 Well, at least I am honest! 
 
 My "languages evolution":
-1. Turbo Pascal (in high school but I am still old)
+1. Turbo Pascal (in high school... a few years back)
 1. PHP
 1. Javascript
 1. VB.Net
