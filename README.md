@@ -6,9 +6,9 @@ Well, at least I am honest!
 My "languages evolution":
 1. Turbo Pascal (in high school but I am still old)
 1. PHP
+1. Javascript
 1. VB.Net
 1. C#
-1. Javascript
 1. Python
 1. Ruby
 1. Go
