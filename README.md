@@ -15,7 +15,7 @@ Cringe, I know 😂
 It seems that I need to unlearn a ton of stuff and learn prompting apparently... or not 😉
 
 ## Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=deblasis&column=4)](https://github.com/ryo-ma/github-profile-trophy) <img align="left" alt="General stats" src="https://github-readme-stats.vercel.app/api/?username=deblasis&count_private=true&theme=radical&show_icons=true&hide=stars&custom_title=%F0%9F%91%87%20me([%F0%9F%8D%96,%F0%9F%8D%97,%F0%9F%A5%A9,%F0%9F%A5%95,%F0%9F%A5%97,%F0%9F%8D%9D,%F0%9F%8D%95,%E2%98%95,%E2%98%95,%E2%98%95,%E2%98%95,%E2%98%95])&border_radius=30">
+[![trophy](https://github-profile-trophy.vercel.app/?username=deblasis&column=4)](https://github.com/ryo-ma/github-profile-trophy) <img alt="General stats" src="https://github-readme-stats.vercel.app/api/?username=deblasis&count_private=true&theme=radical&show_icons=true&hide=stars&custom_title=%F0%9F%91%87%20me([%F0%9F%8D%96,%F0%9F%8D%97,%F0%9F%A5%A9,%F0%9F%A5%95,%F0%9F%A5%97,%F0%9F%8D%9D,%F0%9F%8D%95,%E2%98%95,%E2%98%95,%E2%98%95,%E2%98%95,%E2%98%95])&border_radius=30">
 
 
 ## My "upbringing": from Embryo to... Dude
