@@ -15,7 +15,9 @@ Cringe, I know 😂
 It seems that I need to unlearn a ton of stuff and learn prompting apparently... or not 😉
 
 ## Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=deblasis&column=4)](https://github.com/ryo-ma/github-profile-trophy) <img alt="General stats" src="https://github-readme-stats.vercel.app/api/?username=deblasis&count_private=true&theme=radical&show_icons=true&hide=stars&custom_title=%F0%9F%91%87%20me([%F0%9F%8D%96,%F0%9F%8D%97,%F0%9F%A5%A9,%F0%9F%A5%95,%F0%9F%A5%97,%F0%9F%8D%9D,%F0%9F%8D%95,%E2%98%95,%E2%98%95,%E2%98%95,%E2%98%95,%E2%98%95])&border_radius=30">
+[![trophy](https://github-profile-trophy.vercel.app/?username=deblasis&column=4)](https://github.com/ryo-ma/github-profile-trophy) <img alt="General stats" src="https://github-readme-stats-psi-five-93.vercel.app/api/?username=deblasis&count_private=true&theme=radical&show_icons=true&hide=stars&custom_title=%F0%9F%91%87%20me([%F0%9F%8D%96,%F0%9F%8D%97,%F0%9F%A5%A9,%F0%9F%A5%95,%F0%9F%A5%97,%F0%9F%8D%9D,%F0%9F%8D%95,%E2%98%95,%E2%98%95,%E2%98%95,%E2%98%95,%E2%98%95])&border_radius=30">
+
+
 
 
 ## My "upbringing": from Embryo to... Dude
@@ -42,7 +44,7 @@ It seems that I need to unlearn a ton of stuff and learn prompting apparently...
 
 > 💭 Simply by looking at the logo designs, It looks like I matured A LOT! If feels like BenjaminButtoning
 
-<img align="right" alt="Languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deblasis&langs_count=5&theme=radical&border_radius=30">
+<img align="right" alt="Languages stats" src="https://github-readme-stats-psi-five-93.vercel.app/api/top-langs/?username=deblasis&langs_count=5&theme=radical&border_radius=30">
 
 I would consider myself the strongest in **C#** and **Javascript** but maybe these "muscles" will lose volume in favour of Go as I keep hitting "the gym" 😉 
 
