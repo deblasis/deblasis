@@ -14,9 +14,12 @@ The experience, the mistakes made and the ability to figure things out without S
 
 I mostly shitpost about financial markets, tech, with the occasional rant/self-reflection and the odd burst of jokes and memes in these areas.
 
-[@polymatto](https://x.com/polymatto)
+- X.com: [@polymatto](https://x.com/polymatto)
+- Youtube (ENGLISH): [@polyMatto](https://www.youtube.com/@polyMatto)
+- Youtube (ITALIANO): [@polyMattoIT](https://www.youtube.com/@polyMattoIT)
 
-⚠️ I am a bit old-school... you were warned!
+
+⚠️ I am a bit politically incorrect... you were warned!
 
 ## Areas of interest
 
