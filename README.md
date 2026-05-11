@@ -1,8 +1,10 @@
-# Ciao! I am Alex 👋 Howdy?
+# Ciao! I am Alex 👋 
 
 I have built many things over the years, learning and using various languages and frameworks.
+Airdropped into alien codebases and came back victorious. Never shied away from the next thing, even just to try it once. You know, like the smell of a new car, a new framework/language feels the same to me. 
+It's the joy of learning. It's the feeling dumb and then losing virginity again with Eureka.
 
-What was a skill is now quickly becoming ballast.
+But things change and I would be tempted to say that "What was a skill is now quickly becoming ballast..." but maybe it's the exact opposite.
 
 ![image](https://github.com/user-attachments/assets/ca11bb90-55f9-4e13-b9a2-fa515bda1575)
 
@@ -10,7 +12,9 @@ If I distill all my knowledge I should still be able to command an army of mini-
 
 The experience, the mistakes made and the ability to figure things out without StackOverflow, YouTube, LLMs will be forever useful.
 
-## Connect with me
+I will write something about this one day.
+
+## Where you can find me
 
 I mostly shitpost about financial markets, tech, with the occasional rant/self-reflection and the odd burst of jokes and memes in these areas.
 
